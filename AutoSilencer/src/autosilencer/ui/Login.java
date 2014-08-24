@@ -1,4 +1,4 @@
-package uk.co.rm.android.AutoSilencer.obj;
+package autosilencer.ui;
 
 import uk.co.rm.android.AutoSilencer.R;
 import uk.co.rm.android.AutoSilencer.R.drawable;

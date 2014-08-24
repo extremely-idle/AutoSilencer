@@ -1,4 +1,4 @@
-package android.autosilencer;
+package autosilencer.ui;
 
 import android.support.v7.app.ActionBarActivity;
 import android.support.v7.app.ActionBar;
